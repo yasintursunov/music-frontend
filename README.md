@@ -1,4 +1,4 @@
-
+Deployment version - https://music-frontend-iota.vercel.app/
 # Music Frontend (Next.js + TS + Tailwind)
 
 1) `.env.local` and set `NEXT_PUBLIC_BACKEND_URL` (default http://localhost:4000).
